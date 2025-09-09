@@ -1,13 +1,5 @@
-# Personal Website
+### Original README from HTML5 UP:
 
-This repository contains the source code for my academic website.  
-Built using the **Spectral** template by [HTML5 UP](https://html5up.net/).
-
----
-
-### Original README (from HTML5 UP template)
-
-~~~text
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -44,3 +36,4 @@ Credits:
         Scrollex (github.com/ajlkn/jquery.scrollex)
         Responsive Tools (github.com/ajlkn/responsive-tools)
 ~~~
+
