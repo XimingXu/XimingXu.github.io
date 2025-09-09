@@ -1,7 +1,16 @@
+# Ximing Xu - Personal Website
+
+This repository contains the source code for my personal website.  
+Built using the **Spectral** template by [HTML5 UP](https://html5up.net/).
+
+---
+
+### Original README (from HTML5 UP template)
+
+```text
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
 and an assortment of pre-styled elements. So, pretty much what you were expecting
@@ -30,16 +39,15 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
-
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+    Demo Images:
+        Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+    Icons:
+        Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+    Other:
+        jQuery (jquery.com)
+        Scrollex (github.com/ajlkn/jquery.scrollex)
+        Responsive Tools (github.com/ajlkn/responsive-tools)
